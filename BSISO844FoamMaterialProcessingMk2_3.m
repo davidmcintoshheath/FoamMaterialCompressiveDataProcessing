@@ -1,3 +1,5 @@
+%Created by David Heath - The University of Oxford%
+
 clc;
 clear all;
 %find all the data files
